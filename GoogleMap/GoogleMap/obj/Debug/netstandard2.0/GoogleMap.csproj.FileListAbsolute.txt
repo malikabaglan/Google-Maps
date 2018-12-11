@@ -1,0 +1,12 @@
+/Users/malikabaglan/Projects/GoogleMap/GoogleMap/bin/Debug/netstandard2.0/GoogleMap.deps.json
+/Users/malikabaglan/Projects/GoogleMap/GoogleMap/bin/Debug/netstandard2.0/GoogleMap.dll
+/Users/malikabaglan/Projects/GoogleMap/GoogleMap/bin/Debug/netstandard2.0/GoogleMap.pdb
+/Users/malikabaglan/Projects/GoogleMap/GoogleMap/obj/Debug/netstandard2.0/GoogleMap.csprojAssemblyReference.cache
+/Users/malikabaglan/Projects/GoogleMap/GoogleMap/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/malikabaglan/Projects/GoogleMap/GoogleMap/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/malikabaglan/Projects/GoogleMap/GoogleMap/obj/Debug/netstandard2.0/GoogleMap.csproj.CoreCompileInputs.cache
+/Users/malikabaglan/Projects/GoogleMap/GoogleMap/obj/Debug/netstandard2.0/GoogleMap.AssemblyInfoInputs.cache
+/Users/malikabaglan/Projects/GoogleMap/GoogleMap/obj/Debug/netstandard2.0/GoogleMap.AssemblyInfo.cs
+/Users/malikabaglan/Projects/GoogleMap/GoogleMap/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/malikabaglan/Projects/GoogleMap/GoogleMap/obj/Debug/netstandard2.0/GoogleMap.dll
+/Users/malikabaglan/Projects/GoogleMap/GoogleMap/obj/Debug/netstandard2.0/GoogleMap.pdb

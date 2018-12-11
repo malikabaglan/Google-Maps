@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{D6E38E19-CE15-4C20-8EF6-06061BC3D320}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.GoogleMap.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
